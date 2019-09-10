@@ -17,10 +17,14 @@
   
   
 ## 2. 코드 설명
-  #### 00
-  #### 01
-  #### 02
-  #### 03
+  #### 00Crawl.py
+        Selenium 패키지를 활용해 [서울특별시 응답소 內 '원순씨에게 바랍니다'](http://eungdapso.seoul.go.kr/Shr/Shr01/Shr01_lis.jsp)의 모든 민원 데이터 수집.  
+        크롬 webdriver 파일 필요.
+  #### 01Preprocessing.py
+  
+  #### 02TopicModel.py
+  
+  #### 03Vectorize.py
 
 ## 3. 프로젝트 참여자
 - 서울디지털재단 박건철 책임(parkkc07@sdf.seoul.kr, https://github.com/SeoulDigitalFoundation)
