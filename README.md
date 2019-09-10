@@ -25,4 +25,4 @@
 ## 3. 프로젝트 참여자
 - 서울디지털재단 박건철 책임(parkkc07@sdf.seoul.kr, https://github.com/SeoulDigitalFoundation)
 - 성균관대 인터랙션사이언스 대학원 김병준 박사과정(kuntakim88@gmail.com, https://github.com/ByungjunKim)
-- 성균관대 인터랙션사이언스 대학원 이겨레 박사과정(happyeffect@naver.com, https://github.com/KyeoReLee)
+- 성균관대 인터랙션사이언스 대학원 이겨레 박사과정(happyeffect@gmail.com, https://github.com/KyeoReLee)
