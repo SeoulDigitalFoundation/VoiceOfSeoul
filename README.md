@@ -12,7 +12,6 @@
         데이터 출처 : Selenium 패키지를 활용해 직접 사이트에서 직접 수집
             
             
-            
   #### 나. 사용언어 및 주요 패키지
         Python, Selenium, Pandas, PyKomoran(https://github.com/shineware/PyKOMORAN), Scikit-learn, Gensim, Numpy
   
