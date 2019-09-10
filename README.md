@@ -2,7 +2,7 @@
 ## 1. 프로젝트 소개
     서울특별시 민원 텍스트 데이터 수집, 전처리, 키워드 추출, 토픽모델링 분석 연구 프로젝트.
   ### 가. 대상 데이터
-        - [민주주의 서울](https://democracy.seoul.go.kr/front/index.do)(舊 천만상상오아시스)
+        - [민주주의 서울] (https://democracy.seoul.go.kr/front/index.do)(舊 천만상상오아시스)
             
             데이터 출처 : 
             서울 열린데이터 광장(https://data.seoul.go.kr/dataList/datasetView.do?infId=OA-2563&srvType=S&serviceKind=1&currentPageNo=1)
