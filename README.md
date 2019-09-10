@@ -4,14 +4,25 @@
   ### 가. 대상 데이터
         - 민주주의 서울(舊 천만상상오아시스)
             https://democracy.seoul.go.kr/front/index.do
-           
+            데이터 출처 : 
+            서울 열린데이터 광장(https://data.seoul.go.kr/dataList/datasetView.do?infId=OA-2563&srvType=S&serviceKind=1&currentPageNo=1)
+            
         - 서울특별시 응답소 內 '원순씨에게 바랍니다'
             http://eungdapso.seoul.go.kr/Shr/Shr01/Shr01_lis.jsp
             
-  ### 나. 사용언어
+  ### 나. 사용언어 및 패키지
+        Python, Selenium, Pandas, PyKomoran(https://github.com/shineware/PyKOMORAN), 
   
 ## 2. 코드 설명
 ## 3. 프로젝트 참여자
 - 서울디지털재단 박건철 책임(parkkc07@sdf.seoul.kr, https://github.com/SeoulDigitalFoundation)
 - 성균관대 인터랙션사이언스 대학원 김병준 박사과정(kuntakim88@gmail.com, https://github.com/ByungjunKim)
 - 성균관대 인터랙션사이언스 대학원 이겨레 박사과정(happyeffect@naver.com, https://github.com/KyeoReLee)
+
+@misc{komoran,
+  author = {Junsoo Shin, Junghwan Park, Geunho Lee},
+  title = {KOMORAN},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/shineware/PyKOMORAN}}
+}
