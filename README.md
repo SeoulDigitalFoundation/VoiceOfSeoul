@@ -18,12 +18,17 @@
   
 ## 2. 코드 설명
   #### 00Crawl.py
-        Selenium 패키지를 활용해 서울특별시 응답소 內 '원순씨에게 바랍니다'의 모든 민원 데이터 수집.  
-        크롬 webdriver 파일(chromedriver.exe) 필요.
+        - Selenium 패키지를 활용해 서울특별시 응답소 內 '원순씨에게 바랍니다'의 모든 민원 데이터 수집.  
+        - 크롬 webdriver 파일(chromedriver.exe) 필요.
         
   #### 01Preprocessing.py
-  
+        - 00Crawl.py에서 수집한 <서울 응답소 데이터>와 민주주의서울 및 천만상상오아시스 데이터 전처리.
+        - Pykomoran을 활용해 민원 텍스트에서 '명사'만 추출함.
+        - 이 과정에서 민원에 최적화된 사용자 사전(User Dictionary) 구축해 정확한 형태소 분석 가능.
+        - 정규표현식 활용하여 민원 텍스트 內 불필요한 html 태그 등 제거.
+        
   #### 02TopicModel.py
+        - 
   
   #### 03Vectorize.py
 
