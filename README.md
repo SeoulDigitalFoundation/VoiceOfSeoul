@@ -7,7 +7,7 @@
   A. [민주주의 서울(舊 천만상상오아시스)](https://democracy.seoul.go.kr/front/index.do)  
         데이터 출처 : [서울 열린데이터 광장](https://data.seoul.go.kr/dataList/datasetView.do?infId=OA-2563&srvType=S&serviceKind=1&currentPageNo=1)
             
-  B. [서울특별시 응답소 內 '원순씨에게 바랍니다'](http://eungdapso.seoul.go.kr/Shr/Shr01/Shr01_lis.jsp)
+  B. [서울특별시 응답소 內 '원순씨에게 바랍니다'](http://eungdapso.seoul.go.kr/Shr/Shr01/Shr01_lis.jsp)  
         데이터 출처 : Selenium 패키지를 활용해 직접 사이트에서 직접 수집
             
             
