@@ -3,9 +3,9 @@
     서울특별시 민원 텍스트 데이터 수집, 전처리, 키워드 추출, 토픽모델링 분석 연구 프로젝트.
   ### 가. 대상 데이터
   A. [민주주의 서울(舊 천만상상오아시스)](https://democracy.seoul.go.kr/front/index.do)  
-  데이터 출처 : [서울 열린데이터 광장](https://data.seoul.go.kr/dataList/datasetView.do?infId=OA-2563&srvType=S&serviceKind=1&currentPageNo=1)
+        데이터 출처 : [서울 열린데이터 광장](https://data.seoul.go.kr/dataList/datasetView.do?infId=OA-2563&srvType=S&serviceKind=1&currentPageNo=1)
             
-  B. 서울특별시 응답소 內 '원순씨에게 바랍니다'(http://eungdapso.seoul.go.kr/Shr/Shr01/Shr01_lis.jsp)
+  B. 서울특별시 응답소 內 '원순씨에게 바랍니다'http://eungdapso.seoul.go.kr/Shr/Shr01/Shr01_lis.jsp)
   
             
   ### 나. 사용언어 및 주요 패키지
