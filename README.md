@@ -16,6 +16,8 @@
         Python, Selenium, Pandas, PyKomoran(https://github.com/shineware/PyKOMORAN), Scikit-learn, Gensim, Numpy
   
   
+  
+  
 ## 2. 코드 설명
   #### 00Crawl.py
         - Selenium 패키지를 활용해 서울특별시 응답소 內 '원순씨에게 바랍니다'의 모든 민원 데이터 수집.  
@@ -38,6 +40,8 @@
         - 단어-단어 매트릭스 추출 코드.
         - Gephi 등의 네트워크 시각화 프로그램으로 추출된 매트릭스를 import해 활용 가능.
         - 매트릭스 추출시 Scikit-learn 패키지에서 Cosine_similarity 기능 활용해 코사인유사도 계산.
+        
+        
         
         
 ## 3. 프로젝트 참여자
